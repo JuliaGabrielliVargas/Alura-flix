@@ -28,3 +28,17 @@ header{
 img{
     height: 200px;
 }
+.categoria{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    background-color: blue;
+}
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+h2{
+    font-size: 30px;
+}
